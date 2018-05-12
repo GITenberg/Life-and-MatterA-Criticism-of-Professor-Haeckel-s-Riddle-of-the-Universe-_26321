@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31912
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Lodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26321#Life-and-MatterA-Criticism-of-Professor-Haeckel-s-Riddle-of-the-Universe-
 gutenberg_issued: '2008-08-15'
 gutenberg_type: Text
 identifiers:
